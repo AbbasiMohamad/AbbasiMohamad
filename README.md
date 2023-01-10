@@ -13,3 +13,8 @@ You can reach me directly [@MohamadAbbasi\_ on twitter](https://twitter.com/Moha
 ![](https://github-readme-stats.vercel.app/api?username=AbbasiMohamad&count_private=true&theme=radical&show_icons=true) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasiMohamad&hide=html,blade,handlebars,php,css,javascript,scss&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+## My 5 last blog posts in Persian
+My personal blog: https://mohamadabbasi.me!
