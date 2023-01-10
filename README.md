@@ -18,3 +18,5 @@ You can reach me directly [@MohamadAbbasi\_ on twitter](https://twitter.com/Moha
 
 ## My 5 last blog posts in Persian
 My personal blog: https://mohamadabbasi.me!
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
